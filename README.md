@@ -1,3 +1,8 @@
+This link is go to view this project that i host on vercel
+
+https://nextjs-snooker-lemon.vercel.app/sk-snooker
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
